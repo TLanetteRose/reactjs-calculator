@@ -2,7 +2,7 @@
   "name": "calculator-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://milosrancic.github.io/reactjs-calculator.git",
+  "homepage": "https://milosrancic.github.io/reactjs-calculator",
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
