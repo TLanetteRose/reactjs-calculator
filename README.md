@@ -1,4 +1,4 @@
-# ReactJS Markdown Previewer
+# ReactJS Calculator
 
 This project is part of [freeCodeCamp](https://www.freecodecamp.org/) Front End Libraries curriculum.
 
