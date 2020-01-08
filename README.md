@@ -5,6 +5,10 @@ This project is part of [freeCodeCamp](https://www.freecodecamp.org/) Front End 
 ## View project
 https://milosrancic.github.io/reactjs-calculator/
 
+### Screenshot:
+
+[![Calculator.png](https://i.postimg.cc/d0vmZcv8/Calculator.png)](https://postimg.cc/MnPjg4nT)
+
 ### Technologies
 HTML5, CSS3, JavaScript, ReactJS
 
